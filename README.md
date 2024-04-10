@@ -19,8 +19,8 @@ O sistema permitirá que um usuário admin crie tópicos (temas de interesse) e 
 - O usuário admin deve poder adicionar outros usuários não-admins.
 - O usuário admin poderá criar listas de interesse.
 - Os usuários não-admins não podem criar listas.
-- Qualquer pessoa apenas com um email, deverá poder se inscrever em um topico.
-- Quando o admin ou um outro usuário enviar uma mensagem para um topico, deverá ser encaminhada via email para os usuarios inscritos no topico.
+- Qualquer pessoa apenas com um email, deverá poder se inscrever em uma lista.
+- Quando o admin ou um outro usuário enviar uma mensagem para uma lista, deverá ser encaminhada via email para os usuarios inscritos na lista.
 - Endpoint para visualizar as mensagems já enviadas.
 - Endpoint para visualizar listas e emails inscritos nas listas.
 
