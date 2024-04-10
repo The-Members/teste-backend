@@ -24,7 +24,7 @@ O sistema permitirá que um usuário admin crie tópicos (temas de interesse) e 
 - Endpoint para visualizar as mensagems já enviadas.
 - Endpoint para visualizar listas e emails inscritos nas listas.
 
-#Opcional
+# Opcional
 
 - Usar Laravel Octane
 
