@@ -28,4 +28,4 @@ O sistema permitirá que um usuário admin crie tópicos (temas de interesse) e 
 
 - Usar Laravel Octane
 
-Encaminhar link do repositório com as instruções para rodar o projeto: lucas.cardial@themembers.com.br e elvis.gannem@themembers.com.br com o assunto "Desenvolvedor Backend - [NOME]"
+Encaminhar link do repositório com as instruções para rodar o projeto: lucas.cardial@themembers.com.br e danilo@themembers.com.br com o assunto "Desenvolvedor Backend - [NOME]"
