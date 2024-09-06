@@ -13,6 +13,8 @@ O sistema permitirá que um usuário admin crie tópicos (temas de interesse) e 
 - Frontend: Não é necessário desenvolver um frontend para este projeto. O foco será nas funcionalidades de backend.
 - Deve ser criado um arquivo README.md com instruções detalhadas sobre como configurar e executar o projeto.
 - Uma seed deve adicionar o usuário admin ao banco de dados.
+- Seguir a especificação REST para desenvolvimento de APIs.
+- Documentação da API ( OPEN API ou Colleciton do Postman )
 
 # Funcionalidades
 
@@ -23,9 +25,5 @@ O sistema permitirá que um usuário admin crie tópicos (temas de interesse) e 
 - Quando o admin ou um outro usuário enviar uma mensagem para uma lista, deverá ser encaminhada via email para os usuarios inscritos na lista.
 - Endpoint para visualizar as mensagems já enviadas.
 - Endpoint para visualizar listas e emails inscritos nas listas.
-
-# Opcional
-
-- Usar Laravel Octane
 
 Encaminhar link do repositório com as instruções para rodar o projeto: lucas.cardial@themembers.com.br e danilo@themembers.com.br com o assunto "Desenvolvedor Backend - [NOME]"
