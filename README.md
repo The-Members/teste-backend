@@ -8,7 +8,7 @@ O sistema permitirá que um usuário admin crie tópicos (temas de interesse) e 
 
 - O projeto deve ser desenvolvido utilizando Laravel 11.
 - É necessário garantir uma cobertura ampla de testes para todas as funcionalidades do sistema.
-- O uso de Docker é obrigatório para facilitar a configuração e a execução do ambiente de desenvolvimento.
+- O uso do [Sail](https://laravel.com/docs/11.x/sail) é obrigatório para facilitar a configuração e a execução do ambiente de desenvolvimento.
 - O sistema deve fazer uso dos eventos do Laravel para implementar funcionalidades como o envio de e-mails.
 - Frontend: Não é necessário desenvolver um frontend para este projeto. O foco será nas funcionalidades de backend.
 - Deve ser criado um arquivo README.md com instruções detalhadas sobre como configurar e executar o projeto.
