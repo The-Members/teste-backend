@@ -2,7 +2,7 @@
 Sistema de newsletter
 
 # Descrição
-O sistema permitirá que um usuário admin crie tópicos (temas de interesse) e gerencie listas de e-mails associadas a esses tópicos. Os usuários podem se inscrever nessas listas para receber e-mails relacionados ao tópico de seu interesse.
+O sistema permitirá que um usuário admin crie tópicos (temas de interesse) e gerencie postagens nos mesmos. Usuários cadastrados em tópcios deverão receber emails a cada nova postagem.
 
 # Requisitos técnicos
 
