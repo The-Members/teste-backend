@@ -7,7 +7,7 @@ O sistema permitirá que um usuário admin crie tópicos (temas de interesse) e 
 # Requisitos técnicos
 
 - Utilizar a ultima versão stable do Laravel
-- É necessário garantir uma cobertura ampla de testes para todas as funcionalidades do sistema.
+- É necessário garantir uma cobertura de 100% nos testes
 - O uso do [Sail](https://laravel.com/docs/11.x/sail) é obrigatório para facilitar a configuração e a execução do ambiente de desenvolvimento.
 - Utilizar o recurso [Mailpit](https://laravel.com/docs/11.x/sail#previewing-emails), já embutido no Sail
 - Frontend: Não é necessário desenvolver um frontend para este projeto. O foco será nas funcionalidades de backend.
@@ -15,7 +15,6 @@ O sistema permitirá que um usuário admin crie tópicos (temas de interesse) e 
 - Uma seed deve adicionar o usuário admin ao banco de dados.
 - Seguir a especificação REST para desenvolvimento de APIs.
 - Documentação da API ( OPEN API ou Colleciton do Postman )
-- Cobertura de testes em 100%
 
 # Funcionalidades
 
